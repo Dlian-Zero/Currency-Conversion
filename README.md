@@ -30,7 +30,7 @@
 <div align="center">
   <div style="margin-top: 8px;">
     <a 
-      href="https://scripting.fun/import_scripts?urls=%5B%22https%3A%2F%2Fgithub.com%2FDlian-Zero%2FCurrency-Conversion%2Fraw%2Frefs%2Fheads%2Fmain%2F%25E5%25A4%2596%25E5%25B8%2581%25E6%25B1%2587%25E7%258E%2587.scripting%22%5D" 
+      href="https://scripting.fun/import_scripts?urls=%5B%22https%3A%2F%2Fscripting.fun%2Fimport_scripts%3Furls%3D%255B%2522https%253A%252F%252Fgithub.com%252FDlian-Zero%252FCurrency-Conversion%252Fraw%252Frefs%252Fheads%252Fmain%252F%2525E5%2525A4%252596%2525E5%2525B8%252581%2525E6%2525B1%252587%2525E7%25258E%252587.scripting%2522%255D%22%5D" 
       style="display: inline-block; background: linear-gradient(135deg, #2c7a4d, #1e5a3a); color: white; font-size: 1rem; font-weight: 600; padding: 10px 28px; border-radius: 40px; text-decoration: none; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
       🚀 一键导入
     </a>
