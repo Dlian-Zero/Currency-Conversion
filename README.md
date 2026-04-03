@@ -27,3 +27,12 @@
 - 网络：需要互联网连接以调用聚合数据 API
 - 账号：[聚合数据](https://www.juhe.cn/) 免费/付费 API 密钥
 
+<div align="center">
+  <div style="margin-top: 8px;">
+    <a 
+      href="https://scripting.fun/import_scripts?urls=%5B%22https%3A%2F%2Fgithub.com%2FDlian-Zero%2FCurrency-Conversion%2Fraw%2Frefs%2Fheads%2Fmain%2F%25E5%25A4%2596%25E5%25B8%2581%25E6%25B1%2587%25E7%258E%2587.scripting%22%5D" 
+      style="display: inline-block; background: linear-gradient(135deg, #2c7a4d, #1e5a3a); color: white; font-size: 1rem; font-weight: 600; padding: 10px 28px; border-radius: 40px; text-decoration: none; box-shadow: 0 4px 12px rgba(0,0,0,0.15);">
+      🚀 一键导入
+    </a>
+  </div>
+</div>
